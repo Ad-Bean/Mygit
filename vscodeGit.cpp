@@ -24,5 +24,6 @@ int main()
     {
         cout << "This is a test of git from vscode!" << endl;
     }
+    cout << "git Failed!" << endl;
     return 0;
 }
