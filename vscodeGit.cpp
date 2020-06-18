@@ -29,5 +29,7 @@ int main()
 
     cout << "git Success!!" << endl;
     cout << "maybe the network failed?" << endl;
+
+    cout << "this is a new branch and im tring to merge!" << endl;
     return 0;
 }
