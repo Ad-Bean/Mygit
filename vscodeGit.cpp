@@ -32,5 +32,6 @@ int main()
     cout << "stash?" << endl;
 
     cout << "this is a new branch and im tring to merge!" << endl;
+    cout << "now back to the original branch!" << endl;
     return 0;
 }
