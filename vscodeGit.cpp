@@ -26,5 +26,8 @@ int main()
     }
     cout << "git Failed!" << endl;
     cout << "why?" << endl;
+
+    cout << "git Success!!" << endl;
+    cout << "maybe the network failed?" << endl;
     return 0;
 }
