@@ -29,5 +29,6 @@ int main()
 
     cout << "git Success!!" << endl;
     cout << "maybe the network failed?" << endl;
+    cout << "stash?" << endl;
     return 0;
 }
