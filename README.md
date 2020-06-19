@@ -1,18 +1,19 @@
 # Mygit
 teeeeeeeeeeeest
 # Local
-git init
-git status
-git add
-git commit
-git restore
-git diff
-git checkout
-git branch
-git merge
-git stash
+git init<br>
+git status<br>
+git add<br>
+git commit<br>
+git restore<br>
+git diff<br>
+git checkout<br>
+git branch<br>
+git merge<br>
+git stash<br>
+
 
 # Remote
-git clone 
-git pull
-git push
+git clone<br>
+git pull<br>
+git push<br>
