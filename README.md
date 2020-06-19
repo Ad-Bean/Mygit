@@ -20,9 +20,8 @@ git push&nbsp;&nbsp;
 # Add
 我在这里就是弟弟qAq<br>
 ***
-我才是弟弟[^foot] <br>
+我才是弟弟 <br>
 ==========
-[^foot]:wdnmd
 **罗总永远是我大哥!**<br>
 br=double space and enter  
 
