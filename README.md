@@ -18,10 +18,15 @@ git pull&nbsp;&nbsp;
 git push&nbsp;&nbsp;
 
 # Add
-我在这里就是弟弟qAq
+我在这里就是弟弟qAq<br>
+***
+我才是弟弟[^footage]
+==========
+[^footage]: 我是真的弟弟   
 
 **罗总永远是我大哥!**<br>
-<font size=55>标签</font><br>
+br=double space and enter  
+
 **2020年6月19日**
 
 ```cpp
@@ -36,3 +41,20 @@ int answer = 42;
 ***
 [HyperLink](https://github.com/Ad-Bean/Mygit)
 
+>quote  
+>quuuuuuote  
+
+
+使用变量设置链接[test][1]  
+
+[1]:https://www.runoob.com/markdown/md-link.html  
+img语法  
+![alt 属性文本](图片地址 “可选标题  ”)
+
+vscode+markdown shorcuts  
+
+| Column A | Column B | Column C |
+| -------- | -------- | -------- |
+| A1       | B1       | C1       |
+| A2       | B2       | C2       |
+| A3       | B3       | C3       |
